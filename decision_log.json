@@ -1,29 +1,15 @@
 {
   "niche": {
     "cluster": "wedding_stationery",
-    "raw_score": 36.5,
+    "raw_score": 34.5,
     "mentions": 0,
-    "single_word_hits": 2,
+    "single_word_hits": 0,
     "season_boost": 1.6,
     "world_state_boost": 23,
     "competition_hits": 0,
     "deliverability": 0.95,
-    "final_score": 55.5,
+    "final_score": 52.4,
     "evidence": [
-      {
-        "sub": "WeddingsPlanning",
-        "title": "Wedding Mishegas for NYC Area Brides &amp; Grooms",
-        "score": 0,
-        "url": "https://reddit.com/r/WeddingsPlanning/comments/39q6r/",
-        "matched_kw": "~wedding"
-      },
-      {
-        "sub": "WeddingsPlanning",
-        "title": "The one stop wedding sub!",
-        "score": 0,
-        "url": "https://reddit.com/r/WeddingsPlanning/comments/2qhtr/",
-        "matched_kw": "~wedding"
-      },
       {
         "sub": "world_state",
         "title": "trending: table",
@@ -471,38 +457,24 @@
         "printable weekly",
         "bright life",
         "colorful stripes",
-        "modern",
         "botanical",
-        "vintage"
+        "vintage",
+        "modern"
       ]
     }
   },
   "all_ranked": [
     {
       "cluster": "wedding_stationery",
-      "raw_score": 36.5,
+      "raw_score": 34.5,
       "mentions": 0,
-      "single_word_hits": 2,
+      "single_word_hits": 0,
       "season_boost": 1.6,
       "world_state_boost": 23,
       "competition_hits": 0,
       "deliverability": 0.95,
-      "final_score": 55.5,
+      "final_score": 52.4,
       "evidence": [
-        {
-          "sub": "WeddingsPlanning",
-          "title": "Wedding Mishegas for NYC Area Brides &amp; Grooms",
-          "score": 0,
-          "url": "https://reddit.com/r/WeddingsPlanning/comments/39q6r/",
-          "matched_kw": "~wedding"
-        },
-        {
-          "sub": "WeddingsPlanning",
-          "title": "The one stop wedding sub!",
-          "score": 0,
-          "url": "https://reddit.com/r/WeddingsPlanning/comments/2qhtr/",
-          "matched_kw": "~wedding"
-        },
         {
           "sub": "world_state",
           "title": "trending: table",
@@ -950,9 +922,9 @@
           "printable weekly",
           "bright life",
           "colorful stripes",
-          "modern",
           "botanical",
-          "vintage"
+          "vintage",
+          "modern"
         ]
       }
     }

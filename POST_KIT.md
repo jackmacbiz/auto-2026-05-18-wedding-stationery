@@ -28,8 +28,8 @@ Tap link in bio · $24 instant download
 
 ## Agent's decision rationale (so Jack can audit)
 - Cluster: wedding_stationery
-- Final score: 55.5
-- Raw mention-weighted score: 36.5
+- Final score: 52.4
+- Raw mention-weighted score: 34.5
 - Mentions across 6 subs: 0
 - Competition penalty hits: 0
 - Deliverability: 0.95
